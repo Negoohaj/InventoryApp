@@ -1,6 +1,10 @@
 # 📦 InventoryApp
 
-![Tela de estatísticas do app](./assets/screenshot.png)
+## 📱 Telas do app
+
+| Login                                   | Produtos                                      | Estatísticas                                          |
+| --------------------------------------- | --------------------------------------------- | ----------------------------------------------------- |
+| ![Login](./assets/screenshot-login.png) | ![Produtos](./assets/screenshot-produtos.png) | ![Estatísticas](./assets/screenshot-estatisticas.png) |
 
 Aplicativo mobile de controle de estoque, desenvolvido em **React Native + Expo**, criado para uso real em um pequeno negócio da família. Permite cadastrar produtos, registrar vendas com baixa automática no estoque e visualizar as estatísticas de produtos mais vendidos.
 
